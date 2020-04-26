@@ -6,7 +6,7 @@ string dayOfProgrammer(int year)
 {
     if (year == 1918)
     {
-        cout << 29 << endl;
+        cout << 26 << endl;
         return "26.09." + to_string(year);
     }
 
